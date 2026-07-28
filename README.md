@@ -3,7 +3,7 @@
 **Effective date:** 28 July 2026
 **Developer:** Overdrive Labs
 **App:** Ultimate Drive: Racing Manager (`com.overdrivelabs.ultimatedrive`)
-**Contact:** hom.garena@gmail.com
+**Contact:** overdrivelabs998@gmail.com
 
 Ultimate Drive: Racing Manager ("the Game", "we", "us") is a single-player racing team manager game. This policy explains what information is handled when you play the Game.
 
@@ -53,4 +53,4 @@ We may update this policy from time to time. Changes will be posted at this page
 
 ## 7. Contact Us
 
-If you have questions about this policy, contact: **hom.garena@gmail.com**
+If you have questions about this policy, contact: **overdrivelabs998@gmail.com**
